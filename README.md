@@ -1,2 +1,1 @@
-# Tom-Clicker-Auto-Clicker
-Lime-Coin-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
